@@ -87,7 +87,7 @@ The project doesn't rely on other external dependencies or libraries. All necces
    ```
 2. Open `MyRenderer.sln` with Visual Studio 2022
 
-3. Configure the platfrom to `Debug x86
+3. Configure the platfrom to `Debug x86`
 
 4. Press `F5` or click `Local Windows Debugger`. The rotating cube shall show up. 
 
