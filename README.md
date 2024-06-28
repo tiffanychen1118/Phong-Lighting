@@ -38,6 +38,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -91,6 +92,14 @@ The project doesn't rely on other external dependencies or libraries. All necces
 4. Press `F5` or click `Local Windows Debugger`. The rotating cube shall show up. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- DEMO -->
+## Demo
+
+<a href="https://youtu.be/bz9ZHsPyZdo">Phong Lighting Model Demo - YouTube</a>
+
+https://github.com/tiffanychen1118/Phong-Lighting/assets/17548288/b69bce29-787a-4b55-abe6-3762c865c439
 
 
 <!-- CONTACT -->
