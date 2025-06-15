@@ -107,7 +107,7 @@ https://github.com/tiffanychen1118/Phong-Lighting/assets/17548288/b69bce29-787a-
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-X (Twitter) - [@graphicsDevLog](https://twitter.com/graphicsDevLog)
+X (Twitter) - [@tiffanyDevLog](https://x.com/tiffanyDevLog)
 
 Project Link: [https://github.com/tiffanychen1118/Phong-Lighting](https://github.com/tiffanychen1118/Phong-Lighting)
 
